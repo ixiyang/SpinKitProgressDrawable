@@ -1,0 +1,2 @@
+# SpinKitProgressDrawable
+Some progress drawable
